@@ -1,6 +1,6 @@
 #region dashCommerce License
 /*
-dashCommerce® is Copyright © 2008-2012 Mettle Systems LLC. All Rights Reserved.
+dashCommerce?is Copyright ?2008-2012 Mettle Systems LLC. All Rights Reserved.
 
 
 dashCommerce, and the dashCommerce logo are registered trademarks of Mettle Systems LLC. Mettle Systems LLC logos and trademarks may not be used without prior written consent.

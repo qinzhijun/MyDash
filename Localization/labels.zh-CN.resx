@@ -112,10 +112,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="adminNavSite" xml:space="preserve">
     <value>网站</value>
@@ -1634,7 +1634,7 @@
     <value>dashCommerce :: 内容管理</value>
   </data>
   <data name="titleDashBoard" xml:space="preserve">
-    <value>dashCommerce :: dashBoard</value>
+    <value>dashCommerce22 :: dashBoard</value>
   </data>
   <data name="titleEditNotification" xml:space="preserve">
     <value>dashCommerce :: 通告 :: 编辑通告</value>

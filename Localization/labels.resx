@@ -2155,7 +2155,7 @@
     <value>dashCommerce :: Content Management</value>
   </data>
   <data name="titleDashBoard" xml:space="preserve">
-    <value>dashCommerce :: dashBoard</value>
+    <value>dashCommerce2 :: dashBoard</value>
   </data>
   <data name="titleEditNotification" xml:space="preserve">
     <value>dashCommerce :: Notifications :: Edit Notification</value>
@@ -2236,7 +2236,7 @@
     <value>dashCommerce :: Product Categories</value>
   </data>
   <data name="titleProductCoupons" xml:space="preserve">
-    <value>dashCommerce :: Product Coupons</value>
+    <value>dashCommerce3 :: Product Coupons</value>
   </data>
   <data name="titleProductEditAttributes" xml:space="preserve">
     <value>dashCommerce :: Product Edit :: Attributes</value>

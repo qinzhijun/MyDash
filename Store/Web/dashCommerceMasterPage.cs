@@ -37,32 +37,34 @@ namespace MettleSystems.dashCommerce.Store.Web {
 
     protected override void Render(HtmlTextWriter writer) {
       try {
-        HtmlGenericControl allContent = null;
-        if (this.Master != null) {
-          allContent = this.Master.FindControl("allContent") as HtmlGenericControl;
-        }
-        else {
-          allContent = this.FindControl("allContent") as HtmlGenericControl;
-        }
+          HtmlGenericControl allContent = null;
+          if (this.Master != null)
+          {
+              allContent = this.Master.FindControl("allContent") as HtmlGenericControl;
+          }
+          else
+          {
+              allContent = this.FindControl("allContent") as HtmlGenericControl;
+          }
 
-        HyperLink hlpwdby = new HyperLink();
-        hlpwdby.Text = this.GetText;
-        hlpwdby.NavigateUrl = this.GetLink;
-        hlpwdby.Attributes.Add("style", this.GetStyle);
-        hlpwdby.Target = this.GetTarget;
-        hlpwdby.EnableViewState = false;
+          HyperLink hlpwdby = new HyperLink();
+          hlpwdby.Text = this.GetText;
+          hlpwdby.NavigateUrl = this.GetLink;
+          hlpwdby.Attributes.Add("style", this.GetStyle);
+          hlpwdby.Target = this.GetTarget;
+          hlpwdby.EnableViewState = false;
 
-        allContent.Controls.Add(hlpwdby);
-        allContent.Controls.Add(new LiteralControl("<br/><br/>"));
+          allContent.Controls.Add(hlpwdby);
+          allContent.Controls.Add(new LiteralControl("<br/><br/>"));
 
-        HttpContext.Current.Response.Headers.Add(this.HeaderTitle, this.ApplicationName);
+          HttpContext.Current.Response.Headers.Add(this.HeaderTitle, this.ApplicationName);
 
-        var htmlMeta = new HtmlMeta();
-        htmlMeta.Name = this.MetaGen;
-        htmlMeta.Content = this.ApplicationName;
-        this.Page.Header.Controls.Add(htmlMeta);
+          var htmlMeta = new HtmlMeta();
+          htmlMeta.Name = this.MetaGen;
+          htmlMeta.Content = this.ApplicationName;
+          this.Page.Header.Controls.Add(htmlMeta);
 
-        base.Render(writer);
+          base.Render(writer);
       }
       catch (Exception ex) {
         Logger.Error("MasterPage.Render", ex);
@@ -85,6 +87,7 @@ namespace MettleSystems.dashCommerce.Store.Web {
       }
     }
 
+      //todo:下面的字段可以改
     private string GetText {
       get {
         ASCIIEncoding encoding = new ASCIIEncoding();
@@ -136,7 +139,6 @@ namespace MettleSystems.dashCommerce.Store.Web {
             byte[] characters = new byte[12] { 100, 097, 115, 104, 067, 111, 109, 109, 101, 114, 099, 101 };
             string applicationName = encoding.GetString(characters);
             return applicationName;
-
         }
     }
 
