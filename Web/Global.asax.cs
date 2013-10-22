@@ -25,7 +25,7 @@ using MettleSystems.dashCommerce.Store;
 
 namespace MettleSystems.dashCommerce.Web {
   public class Global : System.Web.HttpApplication {
-
+      aaaaaa
     /// <summary>
     /// Handles the Start event of the Application control.
     /// </summary>
