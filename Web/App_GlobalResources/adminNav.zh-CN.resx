@@ -190,7 +190,7 @@
     <value>优惠商品</value>
   </data>
   <data name="ProductListing" xml:space="preserve">
-    <value>商品目录</value>
+    <value>商品列表</value>
   </data>
   <data name="ProductManagement" xml:space="preserve">
     <value>商品管理</value>

@@ -2143,196 +2143,196 @@
     <value>Please supply a Title.</value>
   </data>
   <data name="titleAddUser" xml:space="preserve">
-    <value>dashCommerce :: Add User</value>
+    <value>Admin :: Add User</value>
   </data>
   <data name="titleCart" xml:space="preserve">
-    <value>dashCommerce :: Cart</value>
+    <value>Admin :: Cart</value>
   </data>
   <data name="titleCheckout" xml:space="preserve">
-    <value>dashCommerce :: Checkout</value>
+    <value>Admin :: Checkout</value>
   </data>
   <data name="titleContentManagement" xml:space="preserve">
-    <value>dashCommerce :: Content Management</value>
+    <value>Admin :: Content Management</value>
   </data>
   <data name="titleDashBoard" xml:space="preserve">
     <value>dashCommerce2 :: dashBoard</value>
   </data>
   <data name="titleEditNotification" xml:space="preserve">
-    <value>dashCommerce :: Notifications :: Edit Notification</value>
+    <value>Admin :: Notifications :: Edit Notification</value>
   </data>
   <data name="titleEditUser" xml:space="preserve">
-    <value>dashCommerce :: Edit User</value>
+    <value>Admin :: Edit User</value>
   </data>
   <data name="titleErrorLogs" xml:space="preserve">
-    <value>dashCommerce :: Error Logs</value>
+    <value>Admin :: Error Logs</value>
   </data>
   <data name="titleImageSelector" xml:space="preserve">
-    <value>dashCommerce :: Image Selector</value>
+    <value>Admin :: Image Selector</value>
   </data>
   <data name="titleInstallAdministrator" xml:space="preserve">
-    <value>dashCommerce :: Install :: Administrator Account</value>
+    <value>Admin :: Install :: Administrator Account</value>
   </data>
   <data name="titleInstallComplete" xml:space="preserve">
-    <value>dashCommerce :: Install :: Complete</value>
+    <value>Admin :: Install :: Complete</value>
   </data>
   <data name="titleInstallConnectionString" xml:space="preserve">
-    <value>dashCommerce :: Install :: Connection String</value>
+    <value>Admin :: Install :: Connection String</value>
   </data>
   <data name="titleInstallDatabase" xml:space="preserve">
-    <value>dashCommerce :: Install :: Database</value>
+    <value>Admin :: Install :: Database</value>
   </data>
   <data name="titleInstallWelcome" xml:space="preserve">
-    <value>dashCommerce :: Install :: Welcome</value>
+    <value>Admin :: Install :: Welcome</value>
   </data>
   <data name="titleLoading" xml:space="preserve">
-    <value>dashCommerce :: Loading . . .</value>
+    <value>Admin :: Loading . . .</value>
   </data>
   <data name="titleLogin" xml:space="preserve">
-    <value>dashCommerce :: Login</value>
+    <value>Admin :: Login</value>
   </data>
   <data name="titleMailSettings" xml:space="preserve">
-    <value>dashCommerce :: Mail Settings</value>
+    <value>Admin :: Mail Settings</value>
   </data>
   <data name="titleManageCouponProviders" xml:space="preserve">
-    <value>dashCommerce :: Manage Coupon Providers</value>
+    <value>Admin :: Manage Coupon Providers</value>
   </data>
   <data name="titleModalError" xml:space="preserve">
-    <value>dashCommerce :: Error</value>
+    <value>Admin :: Error</value>
   </data>
   <data name="titleNotifications" xml:space="preserve">
-    <value>dashCommerce :: Notifications</value>
+    <value>Admin :: Notifications</value>
   </data>
   <data name="titleOrderActions" xml:space="preserve">
-    <value>dashCommerce :: Order :: Actions</value>
+    <value>Admin :: Order :: Actions</value>
   </data>
   <data name="titleOrderNotes" xml:space="preserve">
-    <value>dashCommerce :: Order :: Notes</value>
+    <value>Admin :: Order :: Notes</value>
   </data>
   <data name="titleOrderReceipts" xml:space="preserve">
-    <value>dashCommerce :: Order :: Receipts</value>
+    <value>Admin :: Order :: Receipts</value>
   </data>
   <data name="titleOrderShipping" xml:space="preserve">
-    <value>dashCommerce :: Order :: Shipping</value>
+    <value>Admin :: Order :: Shipping</value>
   </data>
   <data name="titleOrderTransactions" xml:space="preserve">
-    <value>dashCommerce :: Order :: Transactions</value>
+    <value>Admin :: Order :: Transactions</value>
   </data>
   <data name="titleOverview" xml:space="preserve">
-    <value>dashCommerce :: Overview :: {0}</value>
+    <value>Admin :: Overview :: {0}</value>
   </data>
   <data name="titlePaymentConfiguration" xml:space="preserve">
-    <value>dashCommerce :: Payment Provider Configuration</value>
+    <value>Admin :: Payment Provider Configuration</value>
   </data>
   <data name="titlePaymentProviderManagement" xml:space="preserve">
-    <value>dashCommerce :: Payment Provider Management</value>
+    <value>Admin :: Payment Provider Management</value>
   </data>
   <data name="titlePaymentSettings" xml:space="preserve">
-    <value>dashComemrce :: Payment Settings</value>
+    <value>Admin :: Payment Settings</value>
   </data>
   <data name="titleProductAttributes" xml:space="preserve">
-    <value>dashCommerce :: Product Attributes</value>
+    <value>Admin :: Product Attributes</value>
   </data>
   <data name="titleProductCategories" xml:space="preserve">
-    <value>dashCommerce :: Product Categories</value>
+    <value>Admin :: Product Categories</value>
   </data>
   <data name="titleProductCoupons" xml:space="preserve">
-    <value>dashCommerce3 :: Product Coupons</value>
+    <value>Admin :: Product Coupons</value>
   </data>
   <data name="titleProductEditAttributes" xml:space="preserve">
-    <value>dashCommerce :: Product Edit :: Attributes</value>
+    <value>Admin :: Product Edit :: Attributes</value>
   </data>
   <data name="titleProductEditCategories" xml:space="preserve">
-    <value>dashCommerce :: Product Edit :: Categories</value>
+    <value>Admin :: Product Edit :: Categories</value>
   </data>
   <data name="titleProductEditCrossSells" xml:space="preserve">
-    <value>dashCommerce :: Product Edit :: Cross Sells</value>
+    <value>Admin :: Product Edit :: Cross Sells</value>
   </data>
   <data name="titleProductEditDescriptors" xml:space="preserve">
-    <value>dashCommerce :: Product Edit :: Descriptors</value>
+    <value>Admin :: Product Edit :: Descriptors</value>
   </data>
   <data name="titleProductEditGeneral" xml:space="preserve">
-    <value>dashCommerce :: Product Edit :: General</value>
+    <value>Admin :: Product Edit :: General</value>
   </data>
   <data name="titleProductEditImages" xml:space="preserve">
-    <value>dashCommerce :: Product Edit :: Images</value>
+    <value>Admin :: Product Edit :: Images</value>
   </data>
   <data name="titleProductEditNotes" xml:space="preserve">
-    <value>dashCommerce :: Product Edit :: Notes</value>
+    <value>Admin :: Product Edit :: Notes</value>
   </data>
   <data name="titleProductEditReviews" xml:space="preserve">
-    <value>dashCommerce :: Product Edit :: Reviews</value>
+    <value>Admin :: Product Edit :: Reviews</value>
   </data>
   <data name="titleProductEditSku" xml:space="preserve">
-    <value>dashCommerce :: Product Edit :: Sku</value>
+    <value>Admin :: Product Edit :: Sku</value>
   </data>
   <data name="titleProductListing" xml:space="preserve">
-    <value>dashCommerce :: Product Listing</value>
+    <value>Admin :: Product Listing</value>
   </data>
   <data name="titleProductManufacturers" xml:space="preserve">
-    <value>dashCommerce :: Product Manufacturers</value>
+    <value>Admin :: Product Manufacturers</value>
   </data>
   <data name="titleRegister" xml:space="preserve">
-    <value>dashCommerce :: Register</value>
+    <value>Admin :: Register</value>
   </data>
   <data name="titleReview" xml:space="preserve">
     <value>Review of {0}.</value>
   </data>
   <data name="titleRoleAdministration" xml:space="preserve">
-    <value>dashCommerce :: Security :: Role Administration</value>
+    <value>Admin :: Security :: Role Administration</value>
   </data>
   <data name="titleSalesOrderSearch" xml:space="preserve">
-    <value>dashCommerce :: Sales :: Order Search</value>
+    <value>Admin :: Sales :: Order Search</value>
   </data>
   <data name="titleShippingConfiguration" xml:space="preserve">
-    <value>dashCommerce :: Shipping Provider Configuration</value>
+    <value>Admin :: Shipping Provider Configuration</value>
   </data>
   <data name="titleShippingProviderManagement" xml:space="preserve">
-    <value>dashCommerce :: Shipping Provider Management</value>
+    <value>Admin :: Shipping Provider Management</value>
   </data>
   <data name="titleShippingSettings" xml:space="preserve">
-    <value>dashCommerce :: Shipping Settings</value>
+    <value>Admin :: Shipping Settings</value>
   </data>
   <data name="titleSiteSettingsAnalytics" xml:space="preserve">
-    <value>dashCommerce :: Site Settings :: Analytics</value>
+    <value>Admin :: Site Settings :: Analytics</value>
   </data>
   <data name="titleSiteSettingsBrowsingLog" xml:space="preserve">
-    <value>dashCommerce :: Site Settings :: Browsing Log</value>
+    <value>Admin :: Site Settings :: Browsing Log</value>
   </data>
   <data name="titleSiteSettingsCache" xml:space="preserve">
-    <value>dashCommerce :: Site Settings :: Caching</value>
+    <value>Admin :: Site Settings :: Caching</value>
   </data>
   <data name="titleSiteSettingsImages" xml:space="preserve">
-    <value>dashCommerce :: Site Settings :: Images</value>
+    <value>Admin :: Site Settings :: Images</value>
   </data>
   <data name="titleSiteSettingsFooter" xml:space="preserve">
-    <value>dashCommerce :: Site Settings :: Footer</value>
+    <value>Admin :: Site Settings :: Footer</value>
   </data>
   <data name="titleSiteSettingsGeneralLayout" xml:space="preserve">
-    <value>dashCommerce :: Site Settings :: General Layout</value>
+    <value>Admin :: Site Settings :: General Layout</value>
   </data>
   <data name="titleSiteSettingsGlobalization" xml:space="preserve">
-    <value>dashCommerce :: Site Settings :: Globalization</value>
+    <value>Admin :: Site Settings :: Globalization</value>
   </data>
   <data name="titleSiteSettingsHeader" xml:space="preserve">
-    <value>dashCommerce :: Site Settings :: Header</value>
+    <value>Admin :: Site Settings :: Header</value>
   </data>
   <data name="titleSiteSettingsWidgets" xml:space="preserve">
-    <value>dashCommerce :: SiteSettings :: Widgets</value>
+    <value>Admin :: SiteSettings :: Widgets</value>
   </data>
   <data name="titleTaxConfiguration" xml:space="preserve">
-    <value>dashCommerce :: Tax Provider Configuration</value>
+    <value>Admin :: Tax Provider Configuration</value>
   </data>
   <data name="titleTaxProviderManagement" xml:space="preserve">
-    <value>dashCommerce :: Tax Provider Management</value>
+    <value>Admin :: Tax Provider Management</value>
   </data>
   <data name="titleTaxSettings" xml:space="preserve">
-    <value>dashComerce :: Tax Settings</value>
+    <value>Admin :: Tax Settings</value>
   </data>
   <data name="titleTrackingLogs" xml:space="preserve">
-    <value>dashCommerce :: Tracking Logs</value>
+    <value>Admin :: Tracking Logs</value>
   </data>
   <data name="titleUserAdministration" xml:space="preserve">
-    <value>dashCommerce :: Security :: User Administration</value>
+    <value>Admin :: Security :: User Administration</value>
   </data>
   <data name="pnlImages" xml:space="preserve">
     <value>Images</value>
@@ -2356,7 +2356,7 @@
     <value>Copyright (c) {0} by {1}</value>
   </data>
   <data name="titleSiteSettingsSeo" xml:space="preserve">
-    <value>dashCommerce :: Site Settings :: Seo</value>
+    <value>Admin :: Site Settings :: Seo</value>
   </data>
   <data name="btnAddCustomizedProductDisplayType" xml:space="preserve">
     <value>Add Display Type</value>
@@ -2383,7 +2383,7 @@
     <value>Message Sent!</value>
   </data>
   <data name="titleInstallPermissions" xml:space="preserve">
-    <value>dashCommerce :: Install :: Permissions</value>
+    <value>Admin :: Install :: Permissions</value>
   </data>
   <data name="lblPermissions" xml:space="preserve">
     <value>&lt;p&gt;You need to give the NETWORK SERVICE account "READ" and "WRITE" permissions on the 'repository' directory (ASP.NET account for XP).&lt;/p&gt;</value>
@@ -2395,7 +2395,7 @@
     <value>Customer Information</value>
   </data>
   <data name="titleSalesCustomerInformation" xml:space="preserve">
-    <value>dashCommerce :: Sales :: Customer Information</value>
+    <value>Admin :: Sales :: Customer Information</value>
   </data>
   <data name="lblCustomerId" xml:space="preserve">
     <value>Customer Id:</value>
@@ -2440,7 +2440,7 @@
     <value>License Agreement</value>
   </data>
   <data name="titleInstallLicense" xml:space="preserve">
-    <value>dashCommerce :: Install :: License Agreement</value>
+    <value>Admin :: Install :: License Agreement</value>
   </data>
   <data name="chkAgreeToLicense" xml:space="preserve">
     <value>I Agree to the Terms and Conditions as set forth in the dashCommerce License, noted above.</value>
@@ -2455,7 +2455,7 @@
     <value>Version Check</value>
   </data>
   <data name="titleInstallVersionCheck" xml:space="preserve">
-    <value>dashCommerce :: Install :: Version Check</value>
+    <value>Admin :: Install :: Version Check</value>
   </data>
   <data name="btnTestVersion" xml:space="preserve">
     <value>Version Test</value>
@@ -2491,7 +2491,7 @@
     <value>Downloads</value>
   </data>
   <data name="titleProductDownloads" xml:space="preserve">
-    <value>dashCommerce :: Product Downloads</value>
+    <value>Admin :: Product Downloads</value>
   </data>
   <data name="tpFile" xml:space="preserve">
     <value>File</value>
@@ -2548,13 +2548,13 @@
     <value> You are running dashCommerce {0}.</value>
   </data>
   <data name="titleAbout" xml:space="preserve">
-    <value>dashCommerce :: About</value>
+    <value>Admin :: About</value>
   </data>
   <data name="lblAssemblies" xml:space="preserve">
     <value>Assemblies</value>
   </data>
   <data name="titleAddEditRegion" xml:space="preserve">
-    <value>dashCommerce :: Content Management :: Add / Edit Region</value>
+    <value>Admin :: Content Management :: Add / Edit Region</value>
   </data>
   <data name="lblNullPaymentDescriptionTitle" xml:space="preserve">
     <value>Null Payment Provider</value>
@@ -2647,7 +2647,7 @@
     <value>I prefer a payment gateway that works with my existing internet merchant account. Choose your gateway:</value>
   </data>
   <data name="titlePaymentSelection" xml:space="preserve">
-    <value>dashCommerce :: Payment Selection</value>
+    <value>Admin :: Payment Selection</value>
   </data>
   <data name="chkPayPalAcceleratedBoarding" xml:space="preserve">
     <value>Accept PayPal Express Checkout</value>

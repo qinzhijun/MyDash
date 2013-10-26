@@ -1621,7 +1621,7 @@
     <value>请提供标题名.</value>
   </data>
   <data name="titleAddUser" xml:space="preserve">
-    <value>dashCommerce :: 添加用户</value>
+    <value>网站后台 :: 添加用户</value>
   </data>
   <data name="titleCart" xml:space="preserve">
     <value>购物篮</value>
@@ -1631,102 +1631,102 @@
     <comment>Cart</comment>
   </data>
   <data name="titleContentManagement" xml:space="preserve">
-    <value>dashCommerce :: 内容管理</value>
+    <value>网站后台 :: 内容管理</value>
   </data>
   <data name="titleDashBoard" xml:space="preserve">
-    <value>dashCommerce22 :: dashBoard</value>
+    <value>网站后台 :: dashBoard</value>
   </data>
   <data name="titleEditNotification" xml:space="preserve">
-    <value>dashCommerce :: 通告 :: 编辑通告</value>
+    <value>网站后台 :: 通告 :: 编辑通告</value>
   </data>
   <data name="titleEditUser" xml:space="preserve">
-    <value>dashCommerce :: 编辑用户</value>
+    <value>网站后台 :: 编辑用户</value>
   </data>
   <data name="titleErrorLogs" xml:space="preserve">
-    <value>dashCommerce :: 错误登陆</value>
+    <value>网站后台 :: 错误登陆</value>
   </data>
   <data name="titleImageSelector" xml:space="preserve">
-    <value>dashCommerce :: 图片选择器</value>
+    <value>网站后台 :: 图片选择器</value>
   </data>
   <data name="titleLoading" xml:space="preserve">
-    <value>dashCommerce :: 加载...</value>
+    <value>网站后台 :: 加载...</value>
   </data>
   <data name="titleMailSettings" xml:space="preserve">
-    <value>dashCommerce :: 油箱设定</value>
+    <value>网站后台 :: 油箱设定</value>
   </data>
   <data name="titleModalError" xml:space="preserve">
-    <value>dashCommerce :: 错误</value>
+    <value>网站后台 :: 错误</value>
   </data>
   <data name="titleNotifications" xml:space="preserve">
-    <value>dashCommerce :: 通知</value>
+    <value>网站后台 :: 通知</value>
   </data>
   <data name="titlePaymentConfiguration" xml:space="preserve">
-    <value>dashCommerce :: 付款方式配置</value>
+    <value>网站后台 :: 付款方式配置</value>
   </data>
   <data name="titlePaymentProviderManagement" xml:space="preserve">
-    <value>dashCommerce :: 付款方式管理</value>
+    <value>网站后台 :: 付款方式管理</value>
   </data>
   <data name="titlePaymentSettings" xml:space="preserve">
-    <value>dashComemrce :: 付款方式设定</value>
+    <value>网站后台 :: 付款方式设定</value>
   </data>
   <data name="titleProductAttributes" xml:space="preserve">
-    <value>dashCommerce :: 商品属性</value>
+    <value>网站后台 :: 商品属性</value>
   </data>
   <data name="titleProductCategories" xml:space="preserve">
-    <value>dashCommerce :: 商品目录</value>
+    <value>网站后台 :: 商品目录</value>
   </data>
   <data name="titleProductListing" xml:space="preserve">
-    <value>dashCommerce :: 商品清单</value>
+    <value>网站后台 :: 商品清单</value>
   </data>
   <data name="titleProductManufacturers" xml:space="preserve">
-    <value>dashCommerce :: 产品制造商</value>
+    <value>网站后台 :: 产品制造商</value>
   </data>
   <data name="titleRoleAdministration" xml:space="preserve">
-    <value>dashCommerce :: 安全性:: 权限管理</value>
+    <value>网站后台 :: 安全性:: 权限管理</value>
   </data>
   <data name="titleShippingConfiguration" xml:space="preserve">
-    <value>dashCommerce :: 配送方式提供者</value>
+    <value>网站后台 :: 配送方式提供者</value>
   </data>
   <data name="titleShippingProviderManagement" xml:space="preserve">
-    <value>dashCommerce :: 配送方式提供者管理</value>
+    <value>网站后台 :: 配送方式提供者管理</value>
   </data>
   <data name="titleShippingSettings" xml:space="preserve">
-    <value>dashCommerce :: 配送方式设定</value>
+    <value>网站后台 :: 配送方式设定</value>
   </data>
   <data name="titleSiteSettingsAnalytics" xml:space="preserve">
-    <value>dashCommerce :: 网站设定 :: 分析</value>
+    <value>网站后台 :: 网站设定 :: 分析</value>
   </data>
   <data name="titleSiteSettingsBrowsingLog" xml:space="preserve">
-    <value>dashCommerce :: 网站设定 :: 浏览日志</value>
+    <value>网站后台 :: 网站设定 :: 浏览日志</value>
   </data>
   <data name="titleSiteSettingsFooter" xml:space="preserve">
-    <value>dashCommerce :: 网站设定 :: 页脚</value>
+    <value>网站后台 :: 网站设定 :: 页脚</value>
   </data>
   <data name="titleSiteSettingsGeneralLayout" xml:space="preserve">
-    <value>dashCommerce :: 网站设定 :: 常用布局</value>
+    <value>网站后台 :: 网站设定 :: 常用布局</value>
   </data>
   <data name="titleSiteSettingsGlobalization" xml:space="preserve">
-    <value>dashCommerce :: 网站设定 :: 全球化</value>
+    <value>网站后台 :: 网站设定 :: 全球化</value>
   </data>
   <data name="titleSiteSettingsHeader" xml:space="preserve">
-    <value>dashCommerce :: 网站设定 :: 标题头</value>
+    <value>网站后台 :: 网站设定 :: 标题头</value>
   </data>
   <data name="titleSiteSettingsWidgets" xml:space="preserve">
-    <value>dashCommerce :: 网站设定 :: 布局</value>
+    <value>网站后台 :: 网站设定 :: 布局</value>
   </data>
   <data name="titleTaxConfiguration" xml:space="preserve">
-    <value>dashCommerce :: 税率提供程序配置</value>
+    <value>网站后台 :: 税率提供程序配置</value>
   </data>
   <data name="titleTaxProviderManagement" xml:space="preserve">
-    <value>dashCommerce ::税率提供程序管理</value>
+    <value>网站后台 ::税率提供程序管理</value>
   </data>
   <data name="titleTaxSettings" xml:space="preserve">
-    <value>dashComerce :: 税率设定</value>
+    <value>网站后台 :: 税率设定</value>
   </data>
   <data name="titleTrackingLogs" xml:space="preserve">
-    <value>dashCommerce :: 跟踪日志</value>
+    <value>网站后台 :: 跟踪日志</value>
   </data>
   <data name="titleUserAdministration" xml:space="preserve">
-    <value>dashCommerce :: 安全性:: 用户管理</value>
+    <value>网站后台 :: 安全性:: 用户管理</value>
   </data>
 </root>
